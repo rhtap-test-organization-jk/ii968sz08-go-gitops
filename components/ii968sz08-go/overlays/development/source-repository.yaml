@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ii968sz08-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ii968sz08-go
